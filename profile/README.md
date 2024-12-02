@@ -24,11 +24,11 @@
 All projects listed are readonly with only the UI.
 
 
-### Admin Panel
+### Admin Panel Demo
 ```
 https://admincp-demo.xbitcode.com
 ```
-### Task managment.
+### Task managment Demo 
 ```
 https://task-demo.xbitcode.com/
 ```
@@ -40,3 +40,17 @@ https://ecommerce-demo.xbitcode.com
 ```
 https://fitness-demo.xbitcode.com
 ```
+### Learning Managment Software Demo
+```
+https://lms-demo.xbitcode.com
+```
+### Music Player Demo 
+```
+https://music-demo.xbitcode.com
+```
+### Project Managment Panel Demo
+```
+https://projectmanagment-demo.xbitcode.com
+```
+
+
