@@ -1,12 +1,31 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**Welcome to xBitCode Git Profile**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+🙋‍♀️ We build softwares, apps, website, SEO.
+🌈 We are professional in development and Social Media Managment.
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+### What we do.
+> Web3 apps
+> Android APP Development.
+> iOS APP Development
+> E-Com Development
+> Custom Software/Website
+> Social Media Marketing
+> Social Media Managmennt
+> SEO Service
+> Managed Cloud Hosting
+
+## Explore Demo
+All projects listed are readonly with only the UI.
+
+
+### Admin Panel
+```
+https://admincp-demo.xbitcode.com
+```
