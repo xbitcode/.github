@@ -36,3 +36,7 @@ https://task-demo.xbitcode.com/
 ```
 https://ecommerce-demo.xbitcode.com
 ```
+### Fitness Tracker Demo
+```
+https://fitness-demo.xbitcode.com
+```
