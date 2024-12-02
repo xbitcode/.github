@@ -26,12 +26,15 @@ xBitCode is a cutting-edge software development company specializing in creating
   - 🍎 iOS Applications
 - **E-Commerce Solutions** - Custom online retail platforms
 - **Custom Software Development** - Tailored to your needs
+- **Web Development** Custom Website Development
+
 
 #### 📈 Digital Marketing
 - **Social Media Marketing** - Strategic campaign management
 - **Social Media Management** - Engaging content creation
 - **SEO Services** - Optimizing your digital presence
-- **Cloud Solutions** - Managed hosting services
+- **Cloud Solutions** - Managed hosting services & Emails
+- **Security** - Web server security from threats scams & DDOS
 
 ## 🎯 Our Portfolio
 
